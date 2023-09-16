@@ -1,0 +1,47 @@
+.div-1{
+    border: 2px black solid;
+    width: 450px;
+    height: 200px;
+    background-color: whitesmoke;
+    margin-top: 100px;
+}
+
+h3{
+    margin-top: 5px;
+    margin-left: -290px;
+}
+
+.btn-1{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(62, 151, 62);
+    border: 1px black solid;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    top: 270px;
+    right: 670px;
+}
+
+.btn-2{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(215, 68, 68);
+    border: 1px black solid;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    top: 270px;
+    right: 550px;
+}
+
+.mark-x{
+    position: absolute;
+    top: 108px;
+    right: 550px;
+}
+
+p{
+    text-align: left;
+    padding-left: 15px;
+}
